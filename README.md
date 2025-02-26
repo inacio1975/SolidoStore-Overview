@@ -33,5 +33,6 @@ O Sistema XYZ funciona da seguinte forma:
 
 ```mermaid
 graph TD
-    A[Frontend] -->|API| B[Backend] <-- C[Admin]
+    A[Frontend] -->|API| B[Backend]
+    C[Admin] -->|Gerencia| B[Backend]
     B -->|Referência| D[Documentação]
