@@ -61,3 +61,31 @@ graph TD
     A[Frontend] -->|API| B[Backend]
     C[Admin] -->|Gerencia| B[Backend]
     B -->|Referência| D[Documentação]
+
+---
+
+## 🤝 Contribuindo
+
+Quer ajudar? Veja as instruções de contribuição em cada repositório ou abra uma issue aqui para sugestões gerais!
+
+---
+
+## 📞 Contato
+
+Para suporte ou dúvidas, entre em contato:  
+📧 [inacio.kawala@gmail.com]  
+💬 Ou abra uma issue neste repositório.
+
+---
+
+## 🌐 Conecte-se
+
+Siga o progresso do sistema nos outros repositórios:  
+
+- [Frontend](https://github.com/inacio1975/SolidoStore_Frontend)  
+- [Backend](https://github.com/inacio1975/SolidoStore_Backend)  
+- [Admin](https://github.com/inacio1975/SolidoStore_AdminPanel)
+
+---
+
+🎉 **Vamos construir o futuro do comércio online juntos!** 🎉
