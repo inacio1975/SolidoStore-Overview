@@ -61,7 +61,7 @@ graph TD
     A[Frontend] -->|API| B[Backend]
     C[Admin] -->|Gerencia| B[Backend]
     B -->|Referência| D[Documentação]
-
+```
 
 
 ---
